@@ -17,14 +17,6 @@ If you use any source codes or the datasets included in this toolkit in your wor
 
 In the following, we will guide you how to use this repository step by step.
 
-## Architecture
-
-![framework](pictures/main.png)
-
-## Results
-
-![results](pictures/results.png)
-
 ## Preparation
 
 Our code is based on PyTorch 1.2 Required python packages:
