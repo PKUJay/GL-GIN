@@ -61,7 +61,3 @@ python train.py -g -ne=0 -dd=./data/MixSNIPS_clean -sd=./save/MixSNIPS_best
 
 
 If you have any question, please issue the project or email [me](mailto:lbqin@ir.hit.edu.cn) or [fuxuanwei](mailto:fuxuanwei@ir.hit.edu.cn) and we will reply you soon.
-
-
-# GL-GIN
-# GL-GIN
